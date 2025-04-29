@@ -1,1 +1,1 @@
-## Kindle revie NLP project
+## Kindle review NLP project
